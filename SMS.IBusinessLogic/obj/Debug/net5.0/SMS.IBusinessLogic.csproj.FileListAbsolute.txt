@@ -1,0 +1,17 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\bin\Debug\net5.0\SMS.IBusinessLogic.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\bin\Debug\net5.0\SMS.IBusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\bin\Debug\net5.0\SMS.IBusinessLogic.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\bin\Debug\net5.0\SMS.BusinessModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\bin\Debug\net5.0\SMS.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\bin\Debug\net5.0\SMS.DataModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\bin\Debug\net5.0\SMS.BusinessModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\refint\SMS.IBusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\SMS.IBusinessLogic.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\SMS.IBusinessLogic\obj\Debug\net5.0\ref\SMS.IBusinessLogic.dll

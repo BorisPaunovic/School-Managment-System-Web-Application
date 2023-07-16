@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\bin\Debug\net5.0\EmployeesMVC.DataModel.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\bin\Debug\net5.0\EmployeesMVC.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\bin\Debug\net5.0\EmployeesMVC.DataModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\EmployeesMVC.DataModel.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\EmployeesMVC.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\EmployeesMVC.DataModel.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\EmployeesMVC.DataModel.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\EmployeesMVC.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\EmployeesMVC.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\refint\EmployeesMVC.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\EmployeesMVC.DataModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.DataModel\obj\Debug\net5.0\ref\EmployeesMVC.DataModel.dll

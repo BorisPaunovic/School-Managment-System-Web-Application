@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SMS.IBusinessLogic/1.0.0": {
+        "dependencies": {
+          "SMS.BusinessModel": "1.0.0",
+          "SMS.DataModel": "1.0.0"
+        },
+        "runtime": {
+          "SMS.IBusinessLogic.dll": {}
+        }
+      },
+      "SMS.BusinessModel/1.0.0": {
+        "runtime": {
+          "SMS.BusinessModel.dll": {}
+        }
+      },
+      "SMS.DataModel/1.0.0": {
+        "runtime": {
+          "SMS.DataModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SMS.IBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SMS.BusinessModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SMS.DataModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

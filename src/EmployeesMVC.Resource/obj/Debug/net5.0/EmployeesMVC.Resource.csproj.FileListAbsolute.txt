@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\bin\Debug\net5.0\EmployeesMVC.Resource.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\bin\Debug\net5.0\EmployeesMVC.Resource.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\bin\Debug\net5.0\EmployeesMVC.Resource.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\EmployeesMVC.Resource.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\EmployeesMVC.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\EmployeesMVC.Resource.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\EmployeesMVC.Resource.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\EmployeesMVC.Resource.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\EmployeesMVC.Resource.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\refint\EmployeesMVC.Resource.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\EmployeesMVC.Resource.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\src\EmployeesMVC.Resource\obj\Debug\net5.0\ref\EmployeesMVC.Resource.dll

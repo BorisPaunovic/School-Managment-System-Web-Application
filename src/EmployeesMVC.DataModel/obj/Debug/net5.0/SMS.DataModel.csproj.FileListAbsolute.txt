@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\bin\Debug\net5.0\SMS.DataModel.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\bin\Debug\net5.0\SMS.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\bin\Debug\net5.0\SMS.DataModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\SMS.DataModel.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\SMS.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\SMS.DataModel.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\SMS.DataModel.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\SMS.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\SMS.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\refint\SMS.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\SMS.DataModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\EmployeesMVC.DataModel\obj\Debug\net5.0\ref\SMS.DataModel.dll

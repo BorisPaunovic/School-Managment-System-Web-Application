@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\bin\Debug\net5.0\SMS.BusinessModel.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\bin\Debug\net5.0\SMS.BusinessModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\bin\Debug\net5.0\SMS.BusinessModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\SMS.BusinessModel.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\SMS.BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\SMS.BusinessModel.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\SMS.BusinessModel.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\SMS.BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\SMS.BusinessModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\refint\SMS.BusinessModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\SMS.BusinessModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-Website\src\SMS.BusinessModel\obj\Debug\net5.0\ref\SMS.BusinessModel.dll

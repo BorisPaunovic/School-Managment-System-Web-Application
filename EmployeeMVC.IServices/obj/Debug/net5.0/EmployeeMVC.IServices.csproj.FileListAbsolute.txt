@@ -1,0 +1,15 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\bin\Debug\net5.0\EmployeeMVC.IServices.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\bin\Debug\net5.0\EmployeeMVC.IServices.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\bin\Debug\net5.0\EmployeeMVC.IServices.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\refint\EmployeeMVC.IServices.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\ref\EmployeeMVC.IServices.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\bin\Debug\net5.0\EmployeesMVC.DataModel.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\bin\Debug\net5.0\EmployeesMVC.DataModel.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\FinalMvcThatCallsApi\EmployeesMVC\EmployeeMVC.IServices\obj\Debug\net5.0\EmployeeMVC.IServices.csproj.CopyComplete

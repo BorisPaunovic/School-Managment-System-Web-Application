@@ -1,0 +1,37 @@
+﻿@using School.DataModels.Models
+
+@model CountriesBL<Countries>
+
+
+<div class="card">
+    <div class="card-header ; text-center">Add new country</div>
+
+    <form method="post" asp-controller="Countries" asp-action="SaveCountry">
+    <div class="card-body"> 
+      
+            <div class="form-group">
+                <label>Country name</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.CountryName">
+            </div>
+            <div class="form-group">
+                <label  >PhoneCode</label>
+                <input type="text" asp-for="@Model.Data.PhoneCode" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>  ISO</label>
+                <input type="text" asp-for="@Model.Data.ISO" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>  ISO3</label>
+                <input type="text" asp-for="@Model.Data.ISO3" class="form-control">
+            </div>
+          
+       
+    </div>
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary ">Add country</button>
+        </div>
+    </form>
+</div>
+

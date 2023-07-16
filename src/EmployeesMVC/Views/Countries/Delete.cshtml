@@ -1,0 +1,48 @@
+﻿@using School.DataModels.Models
+
+@model CountriesBL<Countries>
+
+
+
+<div>
+    <div class="  card-header  ; text-danger" style="text-align:center;"> <h1><b>Are you sure you want to delete @Model.Data.CountryName</b></h1></div>
+    <div class="card-body" >
+
+        <div style="float:left ;margin:3vh;margin-left:40%">
+            <img style="width:10vh " src="~/Pictures/CountriesIcon.png"  />
+        </div>
+
+        <div>
+            <label>Name: </label>
+            <label>@Model.Data.CountryName</label>
+        </div>
+        <div>
+            <label>Phone code: </label>
+            <label>@Model.Data.PhoneCode</label>
+        </div>
+
+        <div>
+            <label>ISO: </label>
+            <label>@Model.Data.ISO</label>
+        </div>
+
+        <div>
+            <label>ISO3: </label>
+            <label>@Model.Data.ISO3</label>
+        </div>
+   
+
+    </div>
+    <div class="card-footer" style="text-align:center">
+      
+      
+        <a class="btn btn-danger" asp-controller="Countries" asp-action="ConfirmDelete" asp-route-Id="@Model.Data.CountriesID"><i class="fa fa-trash" aria-hidden="true"> Yes</i></a>
+        <a class="btn btn-info" asp-controller="Countries" asp-action="Details" asp-route-Id="@Model.Data.CountriesID"><i class="fas fa-list" aria-hidden="true"> No</i></a>
+
+
+    </div>
+
+   
+
+
+</div>
