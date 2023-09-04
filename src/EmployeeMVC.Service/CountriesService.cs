@@ -19,7 +19,7 @@ namespace School.Services
     public  class CountriesService:ICountriesService
     {
         private readonly IConfiguration _configuration;
-        private readonly string _connectionString;
+      
         HttpClient httpClient = new HttpClient();
         public CountriesService(IConfiguration configuration)
         {

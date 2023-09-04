@@ -11,6 +11,8 @@ using School.Services;
 using School.Services.Interfaces;
 using SMS.BusinessLogic;
 using SMS.IBusinessLogic;
+using SMS.IServices;
+using SMS.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,6 +37,13 @@ namespace EmployeesMVC
             services.AddScoped<IEmployeeService, EmployeeService>();
             services.AddScoped<ICountriesService, CountriesService>();
             services.AddScoped<ICountriesBusinessLogic, CountriesBusinessLogic>();
+            services.AddScoped<ICourseBusinesLogic, CourseBusinessLogic>();
+            services.AddScoped<ICoursesService, CoursesService>();
+            services.AddScoped<ISubjectsBusinessLogic, SubjectsBusinessLogic>();
+            services.AddScoped<ISubjectsService, SubjectsService>();
+            services.AddScoped<ITeachersBusinessLogic, TeachersBusinessLogic>();
+            services.AddScoped<ITeachersServices, TeachersServices>();
+            
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
            
           

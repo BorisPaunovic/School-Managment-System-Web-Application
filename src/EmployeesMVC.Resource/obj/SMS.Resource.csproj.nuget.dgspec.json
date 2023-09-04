@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj": {}
+    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj": {
+    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj",
+        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj",
         "projectName": "SMS.Resource",
-        "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj",
+        "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.Resource\\SMS.Resource.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.Resource\\obj\\",
+        "outputPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.Resource\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Boris\\AppData\\Roaming\\NuGet\\NuGet.Config",

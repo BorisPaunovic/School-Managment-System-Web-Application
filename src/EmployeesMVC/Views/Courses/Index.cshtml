@@ -1,1 +1,65 @@
-﻿<img  src="~/pictures/creative-coming-soon-teaser-background_23-2148897741.png"/>
+﻿@using School.DataModels.Models
+@using SchoolManagmentSystem.Controllers;
+
+@model List<CoursesBL<Courses>>
+
+
+
+@if (ViewBag.IsDeleted == "true")
+{
+    <div class="alert-danger">
+        <h1>You have sucsessfuly deleted a course</h1>
+    </div>
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+
+<form method="get">
+
+
+
+
+    <div class="input-group rounded">
+
+        <input type="search" class="form-control rounded" name="filter" id="filter" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+        <button class="btn btn-primary" type="submit">  <i class="fas fa-search"></i></button>
+    </div>
+</form>
+
+<div style="text-align:center">
+    <a class="btn btn-primary" style="margin:3vh" asp-controller="Courses" asp-action="Save"><i class="fas fa-plus" aria-hidden="true">Add new course</i></a>
+</div>
+
+
+
+
+@if( Model != null)
+{
+    @foreach (var element in Model)
+{
+    <div class="card" style="float:left ;width:30vh;margin:1vh">
+        <div class="card-header">@element.Data.CoursesName</div>
+        <div class="card-body">
+            <img class="img" width="100 %" src="~/Pictures/CountriesIcon.png" />
+
+        </div>
+
+        <div class="card-footer">
+                <a class="btn btn-primary" asp-controller="Courses" asp-action="Details" asp-route-Id="@element.Data.CoursesID"><i class="fa fa-info-circle" aria-hidden="true">Details</i></a>
+
+        </div>
+    </div>
+    }
+}
+else
+{
+    <div style="text-align:center">
+        <h1>
+          <label>No Courses Avalable</label>
+        </h1>
+    </div>
+}
+
+<div style="clear:both">
+</div>

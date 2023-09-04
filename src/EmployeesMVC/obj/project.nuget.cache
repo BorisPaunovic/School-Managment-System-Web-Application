@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SEd8/NdQjZfPmpCbeBpsLJi5F4vOZy0Facws5wCh7TIVpqkzE6RiV+qda0ISgwPCr1PffJAWWzC7HrvVzLU7Lg==",
+  "dgSpecHash": "5vl+K4EpzHJwyhUst2zIMqHLt7yXlZTI++ZBZxDKhVweYGZ1x5B1Khl7T2OUikqlr033Tk+UJH2Z0HCr930OpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC\\SchoolManagmentSystem.csproj",
+  "projectFilePath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC\\SchoolManagmentSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Boris\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Boris\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

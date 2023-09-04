@@ -1,0 +1,41 @@
+﻿@using School.DataModels.Models
+
+@model SubjectsBL<Subjects>
+
+
+
+<div>
+    <div class="  card-header  ; text-danger" style="text-align:center;"> <h1><b>Are you sure you want to delete @Model.Data.SubjectName</b></h1></div>
+    <div class="card-body" >
+
+        <div style="float:left ;margin:3vh;margin-left:40%">
+            <img style="width:10vh " src="~/Pictures/CountriesIcon.png"  />
+        </div>
+
+         
+        <div>
+            <label>Name: </label>
+            <label>@Model.Data.SubjectName</label>
+        </div>
+
+        <div>
+            <label>Description: </label>
+            <label>@Model.Data.SubjectDescription</label>
+        </div>
+
+      
+
+    </div>
+    <div class="card-footer" style="text-align:center">
+      
+      
+        <a class="btn btn-danger" asp-controller="Subjects" asp-action="ConfirmDelete" asp-route-Id="@Model.Data.SubjectId"><i class="fa fa-trash" aria-hidden="true"> Yes</i></a>
+        <a class="btn btn-info" asp-controller="Subjects" asp-action="Details" asp-route-Id="@Model.Data.SubjectId"><i class="fas fa-list" aria-hidden="true"> No</i></a>
+
+
+    </div>
+
+   
+
+
+</div>

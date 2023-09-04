@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj": {}
+    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj": {
+    "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj",
+        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj",
         "projectName": "SMS.DataModel",
-        "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj",
+        "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.DataModel\\obj\\",
+        "outputPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Boris\\AppData\\Roaming\\NuGet\\NuGet.Config",

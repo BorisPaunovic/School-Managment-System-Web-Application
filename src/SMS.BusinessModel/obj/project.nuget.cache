@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "selUiDe0gnEJUwKHI22uIKxT4he1mVtKHbxA1nfXniQHoj/uCx3J9IvFJBSnYVV3VBAB2iRjNd5Fb9I3L5nDyw==",
+  "dgSpecHash": "iu/8aCjllZmBUoyn+2nGX0A26CLm+aRLQsFC73Lpmsy7hkVeuFUFrsY/1VvsN1ug1CdXvVx9SAJ2Gj5yDjd9uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\SMS.BusinessModel\\SMS.BusinessModel.csproj",
+  "projectFilePath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\SMS.BusinessModel\\SMS.BusinessModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

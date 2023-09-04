@@ -276,11 +276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeeMVC.Service\\SMS.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeeMVC.Service\\SMS.Service.csproj",
       "projectName": "SMS.Service",
-      "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeeMVC.Service\\SMS.Service.csproj",
+      "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeeMVC.Service\\SMS.Service.csproj",
       "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeeMVC.Service\\obj\\",
+      "outputPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeeMVC.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Boris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -298,14 +298,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\EmployeeMVC.IServices\\SMS.IServices.csproj": {
-              "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\EmployeeMVC.IServices\\SMS.IServices.csproj"
+            "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\EmployeeMVC.IServices\\SMS.IServices.csproj": {
+              "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\EmployeeMVC.IServices\\SMS.IServices.csproj"
             },
-            "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj": {
-              "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj"
+            "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj": {
+              "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\EmployeesMVC.DataModel\\SMS.DataModel.csproj"
             },
-            "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\SMS.BusinessModel\\SMS.BusinessModel.csproj": {
-              "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\src\\SMS.BusinessModel\\SMS.BusinessModel.csproj"
+            "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\SMS.BusinessModel\\SMS.BusinessModel.csproj": {
+              "projectPath": "C:\\Users\\Boris\\Desktop\\Programi\\Visual Studio Apps\\Portfolio\\School-Website\\Main\\src\\SMS.BusinessModel\\SMS.BusinessModel.csproj"
             }
           }
         }

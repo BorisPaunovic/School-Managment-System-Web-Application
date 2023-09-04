@@ -1,0 +1,42 @@
+﻿@using School.DataModels.Models
+
+@model CoursesBL<Courses>
+
+
+
+<div >
+    <div class="card-header">@Model.Data.CoursesName</div>
+    <div class="card-body">
+        
+        <div style="float:left ; margin:3vh">
+            <img style="width:10vh"  src="~/Pictures/CountriesIcon.png"  />
+        </div>
+
+        <div>
+            <label>Course Id: </label>
+            <label>@Model.Data.CoursesID</label>
+        </div>
+        <div >
+            <label>Course Name: </label> 
+            <label>@Model.Data.CoursesName</label>
+        </div>
+       
+        <div>
+            <label>Course Description: </label>
+            <label>@Model.Data.CoursesDescription</label>
+        </div>
+
+     
+
+       
+    </div>
+    <div class="card-footer">
+        <i class="fas fa-edit">  <a asp-action="Edit" asp-controller="Courses" asp-route-Id="@Model.Data.CoursesID">Edit </a></i>
+        <i class="fas fa-trash">  <a asp-action="Delete" asp-controller="Courses" asp-route-Id="@Model.Data.CoursesID">Delete </a></i>
+      
+    </div>
+
+   
+   
+
+</div>

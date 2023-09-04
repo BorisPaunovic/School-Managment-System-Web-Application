@@ -28,4 +28,33 @@
     <Folder Include="wwwroot\pictures\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Views\Teachers\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\Teachers\Save.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Teachers\Delete.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Teachers\Delete.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Teachers\Details.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Teachers\Edit.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Teachers\Details.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Teachers\Edit.cshtml" />
+  </ItemGroup>
+
 </Project>

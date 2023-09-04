@@ -104,7 +104,7 @@ namespace SchoolManagmentSystem.Controllers
 
 
 
-        [HttpGet("Edit")]
+        [HttpGet ]
         public async Task<IActionResult> Edit()
         {
 
@@ -112,7 +112,7 @@ namespace SchoolManagmentSystem.Controllers
             return View(CountriesBL);
             
         }
-        [HttpPost("Edit")]
+        [HttpPost ]
         public async Task<IActionResult> EditCountry()
         {
 

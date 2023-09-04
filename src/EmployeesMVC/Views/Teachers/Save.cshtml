@@ -1,0 +1,58 @@
+﻿@using School.DataModels.Models
+
+@model TeachersBL<Teachers>
+
+
+<div class="card">
+    <div class="card-header ; text-center">Add new teacher</div>
+
+    <form method="post" asp-controller="Teachers" asp-action="SaveTeacher">
+        <div class="card-body">
+
+
+            <div class="form-group">
+
+                <input type="hidden" class="form-control" asp-for="@Model.Data.TeachersId">
+            </div>
+            <div class="form-group">
+                <label>First Name</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.FirstName">
+            </div>
+            <div class="form-group">
+                <label>Last Name</label>
+                <input type="text" asp-for="@Model.Data.LastName" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Email</label>
+                <input type="text" asp-for="@Model.Data.Email" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Gender</label>
+               
+                <select asp-for="@Model.Data.Gender" class="form-control">
+                    <option selected>Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    
+                </select>
+
+            </div>
+            <div class="form-group">
+                <label>DateOfBirth</label>
+                <input type="date" asp-for="@Model.Data.DateOfBirth" class="form-control">
+              
+            </div>
+            <div class="form-group">
+                <label>Adress</label>
+                <input type="text" asp-for="@Model.Data.Adress" class="form-control">
+            </div>
+
+        </div>
+
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary ">Add teacher</button>
+        </div>
+    </form>
+</div>
+
