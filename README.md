@@ -2,6 +2,13 @@
 
 Welcome to the School Management System Website project! This repository contains the source code and necessary files for a web-based school management system. The system is designed to streamline administrative tasks, facilitate communication between staff, students, and parents, and provide an efficient platform for managing various aspects of school operations.
 
+
+
+
+https://github.com/BorisPaunovic/School-Managment-System-Web-Application/assets/119711363/75f9585e-6a4e-4cff-aef0-64dc9a2b63cd
+
+
+
 ## Features
 
  * User-friendly interface: Ensures easy navigation and accessibility for all users.
