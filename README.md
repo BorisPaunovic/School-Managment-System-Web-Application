@@ -4,21 +4,22 @@ Welcome to the School Management System Website project! This repository contain
 
 ## Features
 
-- **User-friendly interface:** Ensures easy navigation and accessibility for all users.
-- **Secure authentication and authorization:** Implements mechanisms to ensure data privacy and control access levels.
-- **Student management:** Add, edit, and delete student profiles, track attendance, and manage academic records.
-- **Teacher management:** Maintain a record of teachers, assign subjects, and manage their schedules.
-- **Course management:** Create and manage courses, assign teachers, and track progress.
+ * User-friendly interface:** Ensures easy navigation and accessibility for all users.
+ * Secure authentication and authorization:** Implements mechanisms to ensure data privacy and control access levels.
+ * Student management:** Add, edit, and delete student profiles, track attendance, and manage academic records.
+ * Teacher management:** Maintain a record of teachers, assign subjects, and manage their schedules.
+ * Course management:** Create and manage courses, assign teachers, and track progress.
 
 ## Installation
 
 To set up the School Management System Website on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/school-management-system.git`
+1. Clone the repository: [School Managment System Web Application](https://github.com/BorisPaunovic/School-Managment-System-Web-Application.git)
 2. Configure the database connection settings in the `appsettings.json` file.
-3. Run the database migrations to set up the required tables.
-4. Start the development server in Visual Studio.
-5. Access the website in your browser at [http://localhost:5000](http://localhost:5000).
+3. Setup and configure [Database](https://github.com/BorisPaunovic/School-Management-System-Database).
+4. Setup and configure [API](https://github.com/BorisPaunovic/School-Management-System-API).
+5. Start the development server in Visual Studio.
+6. Access the website in your browser at [http://localhost:5000](http://localhost:5000).
 
 ## Contributing
 
