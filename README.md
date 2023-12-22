@@ -4,11 +4,11 @@ Welcome to the School Management System Website project! This repository contain
 
 ## Features
 
- * User-friendly interface:** Ensures easy navigation and accessibility for all users.
- * Secure authentication and authorization:** Implements mechanisms to ensure data privacy and control access levels.
- * Student management:** Add, edit, and delete student profiles, track attendance, and manage academic records.
- * Teacher management:** Maintain a record of teachers, assign subjects, and manage their schedules.
- * Course management:** Create and manage courses, assign teachers, and track progress.
+ * User-friendly interface: Ensures easy navigation and accessibility for all users.
+ * Secure authentication and authorization: Implements mechanisms to ensure data privacy and control access levels.
+ * Student management: Add, edit, and delete student profiles, track attendance, and manage academic records.
+ * Teacher management: Maintain a record of teachers, assign subjects, and manage their schedules.
+ * Course management: Create and manage courses, assign teachers, and track progress.
 
 ## Installation
 
